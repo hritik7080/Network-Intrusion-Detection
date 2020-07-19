@@ -1,5 +1,5 @@
 # Network-Intrusion-Detection
-Developed a Machine Learning model to check the network is under attack or not.
+Created a Machine Learning model to check the network is under attack or not.
 I have used five feature selection techniques in a sequence to find the best features in the dataset.
 -	Correlation based feature selection
 -	Univariate Feature Selection
